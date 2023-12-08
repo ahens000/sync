@@ -1,6 +1,6 @@
 pipeline{
     stages{
         stage{"notify"}
-        Gursale
+        testing merge conflicts and git stash
     }
 }
