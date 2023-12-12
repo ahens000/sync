@@ -4,10 +4,3 @@ Pull from GUI
 Sneha
 
 
-deny request - done
-
-
-again
-
-
-rty
